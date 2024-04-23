@@ -1,0 +1,7 @@
+#N=3706	M=6040	alpha=0.0010	beta=1.00	file=movielens	repeats=2	niters=1	nsteps=10000	alloc=prop
+#Efficiency vs Fairness:
+OPT (r=2)	100.00 ± 0.00	84.84 ± 0.00
+Neural Alg.	95.18 ± 0.00	97.81 ± 0.00
+Greedy Alg.	87.12 ± 0.00	71.86 ± 0.00
+Rand Alg.	46.37 ± 0.00	94.14 ± 0.00
+#Done:	10000.0 steps	 188.89 mins

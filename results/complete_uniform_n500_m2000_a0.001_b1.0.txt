@@ -1,0 +1,8 @@
+#N=500	M=2000	alpha=0.0010	beta=1.00	deg=complete	weights=uniform	repeats=4	niters=10	nsteps=10000	alloc=prop
+#Efficiency vs Fairness:
+OPT (r=2000)	100.00 ± 0.00	49.40 ± 2.21
+OPT (r=4)	98.67 ± 0.06	100.00 ± 0.00
+Neural Alg.	98.69 ± 0.06	100.00 ± 0.00
+Greedy Alg.	85.46 ± 0.29	98.38 ± 0.58
+Rand Alg.	49.48 ± 0.59	100.00 ± 0.00
+#Done:	4943.2 steps	 103.05 mins

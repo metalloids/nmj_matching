@@ -1,0 +1,7 @@
+#N=73	M=188	alpha=0.0010	beta=1.00	file=uiuc	repeats=3	niters=1	nsteps=10000	alloc=prop
+#Efficiency vs Fairness:
+OPT (r=3)	100.00 ± 0.00	97.26 ± 0.00
+Neural Alg.	99.50 ± 0.00	100.00 ± 0.00
+Greedy Alg.	78.94 ± 0.00	89.04 ± 0.00
+Rand Alg.	61.55 ± 0.00	100.00 ± 0.00
+#Done:	3697.0 steps	 0.40 mins

@@ -1,0 +1,8 @@
+#N=500	M=550	alpha=0.0100	beta=1.00	deg=complete	weights=lognormal	repeats=2	niters=10	nsteps=10000	alloc=const
+#Efficiency vs Fairness:
+OPT (r=550)	100.00 ± 0.00	69.14 ± 1.53
+OPT (r=2)	99.07 ± 0.17	73.60 ± 1.19
+Neural Alg.	91.90 ± 0.79	99.80 ± 0.15
+Greedy Alg.	63.38 ± 1.47	67.98 ± 1.11
+Rand Alg.	7.29 ± 0.39	100.00 ± 0.00
+#Done:	6173.1 steps	 463.14 mins

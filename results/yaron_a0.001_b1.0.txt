@@ -1,0 +1,7 @@
+#N=15	M=217	alpha=0.0010	beta=1.00	file=yaron	repeats=15	niters=1	nsteps=10000	alloc=prop
+#Efficiency vs Fairness:
+OPT (r=15)	100.00 ± 0.00	100.00 ± 0.00
+Neural Alg.	97.74 ± 0.00	100.00 ± 0.00
+Greedy Alg.	72.56 ± 0.00	100.00 ± 0.00
+Rand Alg.	26.79 ± 0.00	100.00 ± 0.00
+#Done:	1518.0 steps	 0.12 mins

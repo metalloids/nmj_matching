@@ -1,0 +1,8 @@
+#N=500	M=5000	alpha=0.0010	beta=1.00	deg=complete	weights=poisson	repeats=10	niters=10	nsteps=10000	alloc=prop
+#Efficiency vs Fairness:
+OPT (r=5000)	100.00 ± 0.00	99.92 ± 0.10
+OPT (r=10)	99.49 ± 0.02	100.00 ± 0.00
+Neural Alg.	99.55 ± 0.02	100.00 ± 0.00
+Greedy Alg.	65.51 ± 0.29	100.00 ± 0.00
+Rand Alg.	30.56 ± 0.16	100.00 ± 0.00
+#Done:	5312.3 steps	 210.97 mins

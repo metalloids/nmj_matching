@@ -1,0 +1,7 @@
+#N=1076	M=1076	alpha=0.0100	beta=1.00	file=abtbuy	repeats=1	niters=1	nsteps=10000	alloc=const
+#Efficiency vs Fairness:
+OPT (r=1)	100.00 ± 0.00	100.00 ± 0.00
+Neural Alg.	99.26 ± 0.00	98.88 ± 0.00
+Greedy Alg.	61.43 ± 0.00	59.29 ± 0.00
+Rand Alg.	13.23 ± 0.00	100.00 ± 0.00
+#Done:	5879.0 steps	 283.69 mins

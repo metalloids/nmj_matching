@@ -1,0 +1,7 @@
+#N=5000	M=5000	alpha=0.0100	beta=1.00	file=assignp5000	repeats=1	niters=1	nsteps=10000	alloc=const
+#Efficiency vs Fairness:
+OPT (r=1)	100.00 ± 0.00	100.00 ± 0.00
+Neural Alg.	97.19 ± 0.00	96.62 ± 0.00
+Greedy Alg.	85.62 ± 0.00	64.90 ± 0.00
+Rand Alg.	52.14 ± 0.00	96.44 ± 0.00
+#Done:	10000.0 steps	 397.01 mins
